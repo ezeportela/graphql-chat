@@ -28,5 +28,30 @@
     "id": "rkA-H6JuU",
     "from": "alice",
     "text": "hi again"
+  },
+  {
+    "id": "H1Eu_D7u8",
+    "from": "alice",
+    "text": "hola"
+  },
+  {
+    "id": "ByK_uPQuL",
+    "from": "alice",
+    "text": "como estas?"
+  },
+  {
+    "id": "H1AdE1SOI",
+    "from": "alice",
+    "text": "todo bien"
+  },
+  {
+    "id": "SyOHH1B_8",
+    "from": "alice",
+    "text": "really?"
+  },
+  {
+    "id": "H1xIrJHOI",
+    "from": "alice",
+    "text": "this chat is wonderful"
   }
 ]

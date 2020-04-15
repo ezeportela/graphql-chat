@@ -1,0 +1,22 @@
+{
+  "name": "graphql-chat",
+  "version": "1.0.0",
+  "description": "Sample application used in the [GraphQL by Example](https://bit.ly/graphql-by-example) course.",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeportela/graphql-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeportela/graphql-chat/issues"
+  },
+  "homepage": "https://github.com/ezeportela/graphql-chat#readme"
+}
